@@ -25,7 +25,7 @@
 | [ecommerce_fraud_detection](https://github.com/fahmiridho07/ecommerce_fraud_detection) | ML pipeline to detect fraudulent e-commerce transactions |
 | [nlp_project_sriwijayaair](https://github.com/fahmiridho07/nlp_project_sriwijayaair) | NLP sentiment analysis of airline customer reviews |
 | [scent2me-rec-service](https://github.com/fahmiridho07/scent2me-rec-service) | Content-based perfume recommender (TF-IDF) served with FastAPI |
-| [financial_tracker](https://github.com/fahmiridho07/financial_tracker) | Slev — a calm, local-first personal finance tracker (Expo + React Native) |
+| [slev](https://github.com/fahmiridho07/slev) | Slev — a calm, local-first personal finance tracker (Expo + React Native) |
 
 ## 📊 GitHub Stats
 
