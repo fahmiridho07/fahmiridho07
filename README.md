@@ -15,6 +15,8 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
 ## 🚀 Featured Projects
 
@@ -23,6 +25,7 @@
 | [ecommerce_fraud_detection](https://github.com/fahmiridho07/ecommerce_fraud_detection) | ML pipeline to detect fraudulent e-commerce transactions |
 | [nlp_project_sriwijayaair](https://github.com/fahmiridho07/nlp_project_sriwijayaair) | NLP sentiment analysis of airline customer reviews |
 | [scent2me-rec-service](https://github.com/fahmiridho07/scent2me-rec-service) | Content-based perfume recommender (TF-IDF) served with FastAPI |
+| [financial_tracker](https://github.com/fahmiridho07/financial_tracker) | Slev — a calm, local-first personal finance tracker (Expo + React Native) |
 
 ## 📊 GitHub Stats
 
