@@ -1,4 +1,4 @@
-# Hi, I'm Achmad Fahmi Ainur Ridho 👋
+# Hi, I'm Ridho 👋
 
 🤖 **AI / Machine Learning enthusiast** focused on building practical, end-to-end ML systems from data preprocessing and modeling to serving models via APIs.
 
