@@ -1,35 +1,33 @@
-# Hi, I'm Ridho 👋
+# Achmad Fahmi Ainur Ridho
 
-🤖 **AI / Machine Learning enthusiast** focused on building practical, end-to-end ML systems from data preprocessing and modeling to serving models via APIs.
+Final-year Information Systems student at ITS Surabaya. Most weeks split between notebooks and FastAPI — fraud detection, NLP, and recommender systems are where I spend the time right now, with the last few months mostly on a thesis pipeline that pairs an autoencoder with LightGBM and Bayesian optimization.
 
-- 🔭 Currently working on machine learning, NLP, and recommender systems
-- 🌱 Learning MLOps, model deployment, and scalable data pipelines
-- 💬 Ask me about Python, scikit-learn, NLP, and FastAPI
-- 📫 Reach me: achmadridho.id@gmail.com
-
-## 🛠️ Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-
-## 🚀 Featured Projects
-
-| Project | Description |
-|---|---|
-| [ecommerce_fraud_detection](https://github.com/fahmiridho07/ecommerce_fraud_detection) | ML pipeline to detect fraudulent e-commerce transactions |
-| [nlp_project_sriwijayaair](https://github.com/fahmiridho07/nlp_project_sriwijayaair) | NLP sentiment analysis of airline customer reviews |
-| [scent2me-rec-service](https://github.com/fahmiridho07/scent2me-rec-service) | Content-based perfume recommender (TF-IDF) served with FastAPI |
-| [slev](https://github.com/fahmiridho07/slev) | Slev — a calm, local-first personal finance tracker (Expo + React Native) |
-
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=fahmiridho07&show_icons=true)
+**Reach** — [achmadridho.id@gmail.com](mailto:achmadridho.id@gmail.com) · [fahmiridho.me](https://fahmiridho.me)
 
 ---
-📍 Open to collaboration and opportunities in AI/ML & Data.
+
+### Stack
+
+`Python` `scikit-learn` `FastAPI` `Pandas` `PostgreSQL` `React Native` `TypeScript`
+
+### Projects
+
+**[ecommerce_fraud_detection](https://github.com/fahmiridho07/ecommerce_fraud_detection)**
+Undergraduate thesis pipeline on the IEEE-CIS fraud dataset — autoencoder for anomaly scoring, LightGBM for classification, Bayesian optimization tuning the pipeline end to end. Target PR-AUC ≥ 0.65.
+
+**[nlp_project_sriwijayaair](https://github.com/fahmiridho07/nlp_project_sriwijayaair)**
+Sentiment analysis on airline customer reviews.
+
+**[scent2me-rec-service](https://github.com/fahmiridho07/scent2me-rec-service)**
+Content-based perfume recommender (TF-IDF), served through FastAPI.
+
+**[slev](https://github.com/fahmiridho07/slev)**
+Local-first personal finance tracker — Expo + React Native.
+
+---
+
+Open to AI/ML and data work.
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/fahmiridho07/fahmiridho07/output/snake.svg" alt="" width="100%" />
+</div>
